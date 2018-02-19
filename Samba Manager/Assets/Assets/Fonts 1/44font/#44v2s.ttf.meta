@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 014b6c841d85cf140a29ae2ac36f2b3c
+timeCreated: 1506798289
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: '#44 Font Shadow'
+  fontNames:
+  - '#44 Font Shadow'
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

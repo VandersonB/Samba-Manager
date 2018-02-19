@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: b310ada9c0d88a04781c0cbbd4ec590d
+timeCreated: 1506798289
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: '#44 Font Condensed'
+  fontNames:
+  - '#44 Font Condensed'
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

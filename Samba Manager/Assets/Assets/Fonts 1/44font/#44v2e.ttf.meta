@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: f09db49f87ed26a4aa7586ad755eb5bd
+timeCreated: 1506798289
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: '#44 Font Expanded'
+  fontNames:
+  - '#44 Font Expanded'
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
