@@ -158,8 +158,7 @@
   <ItemGroup>
     <None Include="Assets\Assets\ColorfulButtons\Credits.txt" />
     <None Include="Assets\Assets\Fonts 1\44font\#44.txt" />
-    <None Include="Assets\Assets\Fonts\Documentation\JazzCreateAltKeys_BubbleFont.txt" />
-    <None Include="Assets\Assets\Fonts\Documentation\JazzCreateBubble_VersionHistory_1.1.txt" />
+    <None Include="Assets\Assets\Simple UI\Fonts\OFL.txt" />
     <None Include="Assets\Assets\unity-ui-extensions\Shaders\SoftMaskShader.shader" />
     <None Include="Assets\Assets\unity-ui-extensions\Shaders\UI Particle Add.shader" />
     <None Include="Assets\Assets\unity-ui-extensions\Shaders\UI Particle AddMultiply.shader" />
