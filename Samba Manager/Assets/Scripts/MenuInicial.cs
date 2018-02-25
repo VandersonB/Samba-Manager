@@ -6,7 +6,7 @@ using UnityEngine;
 
 public class MenuInicial : MonoBehaviour
 {
-    public Button jogar, creditos;
+    public Button jogar, creditos, desfilar, voltar;
     public Scene MenuManager;
     public Scene Creditos;
     //public string teste;
@@ -16,6 +16,8 @@ public class MenuInicial : MonoBehaviour
     {
         jogar.onClick = new Button.ButtonClickedEvent();
         creditos.onClick = new Button.ButtonClickedEvent();
+        desfilar.onClick = new Button.ButtonClickedEvent();
+        voltar.onClick = new Button.ButtonClickedEvent();
     }
 	
 	// Update is called once per frame
@@ -36,5 +38,16 @@ public class MenuInicial : MonoBehaviour
         Debug.Log("Botão de jogar apertado");
     }
 
-   
+    public void Desfile()
+    {
+        SceneManager.LoadScene("DesfilePontuacao");
+        Debug.Log("Botão de desfilar apertado");
+    }
+
+    public void MainMenu()
+    {
+        SceneManager.LoadScene("MenuInicial");
+        Debug.Log("Botão de voltar apertado");
+    }
+
 }
