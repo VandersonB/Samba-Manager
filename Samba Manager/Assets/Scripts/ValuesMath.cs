@@ -29,8 +29,8 @@ public class ValuesMath : MonoBehaviour {
     public float nota_alegoria, nota_harmonia, nota_mestreSala;
     public float notaFinal;
 
-    float notaminima = 8.75f;
-    float fatornota = 0.125f;
+    float notaminima = 8.5f;
+    float fatornota = 0.15f;
 
     public WriteText script;
 

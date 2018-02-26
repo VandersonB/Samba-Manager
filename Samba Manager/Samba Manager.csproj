@@ -449,6 +449,7 @@
     <Compile Include="Assets\Assets\unity-ui-extensions\Scripts\VR Extensions\VRCursor.cs" />
     <Compile Include="Assets\Assets\unity-ui-extensions\Scripts\VR Extensions\VRInputModule.cs" />
     <Compile Include="Assets\Scripts\AnimImage.cs" />
+    <Compile Include="Assets\Scripts\AudioScript.cs" />
     <Compile Include="Assets\Scripts\MenuCreditos.cs" />
     <Compile Include="Assets\Scripts\MenuInicial.cs" />
     <Compile Include="Assets\Scripts\MenuManagement.cs" />
